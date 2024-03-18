@@ -1,0 +1,24 @@
+.pictures{
+    text-align:center;
+}
+
+.bg {
+    background-image:url("prospect-park-brooklyn-ny-3814936.webp");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home {
+    font-family: "Protest Guerrilla", sans-serif;
+    background-color: tomato
+}
+
+p{
+    text-indent: 30px;
+}
+
+.allign-middle {
+    margin-top: 15%;
+}
